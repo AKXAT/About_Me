@@ -1,0 +1,11 @@
+#logo{
+  font-family: 'Palanquin Dark', sans-serif;
+  color: #ffa7a1;
+}
+
+.jumbotron {
+   padding: 30px;
+   margin-bottom: 30px;
+   color: inherit;
+   background-color: #cfb2b0;
+}
